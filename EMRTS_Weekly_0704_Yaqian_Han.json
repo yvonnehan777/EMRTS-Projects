@@ -1,0 +1,22 @@
+{
+  "contact_info": {
+    "name"    : "Yaqian Han",
+    "phone"   : "3322854397",
+    "email"   : "yvonne.han777@gmail.com",
+    "telegram": "N/A",
+    "github"  : "https://github.com/yvonnehan777/EMRTS-Projects.git"
+  },
+  "weekly_report": {
+    "date": "2025.07.04",
+    "subject": "This week I focused on Project #7 and #9: TABIND Scrabble Project and FizzBuzz Project. Also, I watched several videos talking about the introduction of uv and its efficiency in python",
+    "process": {
+      "2025-06-30": "Start the first meeting with Verbus and other interns. Also watched videos about uv package and take a look at top 10 Django App examples",
+      "2025-07-01": "Finished the FizzBuzz project and shared with other interns",
+      "2025-06-02": "Introduced scrabble project and started using python to finish it. Got different numbers of scrabble words in total since each intern has different scrabble dictionary.",
+      "2025-06-03": "Introduced 4-gallon project and shared thoughts about how to get 4 gallons, start doing this project in python."
+    },
+    "plan_next_week": "Next week I will finish 4-gallon project and watched more videos to get more familiar with python",
+    "hours_worked": "16h",
+    "github_link": "https://github.com/yvonnehan777/EMRTS-Projects.git"
+  }
+}
